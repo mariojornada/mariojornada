@@ -29,15 +29,14 @@ Com 28 anos de atuação na área de TI, minha trajetória é marcada pela evolu
 ---
 
 ### 🔭 Projetos e Atuação
-- 🔭 Atualmente atuando no **Grupo Bertolini** com foco em sustentação de infraestrutura crítica e cibersegurança (EDR/PAM).
-- 🐍 Desenvolvendo automações com Python para segurança e conformidade (LGPD/DPO).
+- 🔭 Atualmente atuando no **Grupo Bertolini** com foco em sustentação de infraestrutura e cibersegurança (EDR/PAM).
 - 💬 Fale comigo sobre: **Arquitetura de Redes, Cloud Security e Automação.**
 
 ---
 
 ### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-jornada-dos-santos-9793b1226/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-jornada/)
 
 ---
 
-> *"Transformando 28 anos de experiência em infraestrutura em código seguro e inteligente."*
+> *“A lógica é o princípio da sabedoria, não o fim.”*
